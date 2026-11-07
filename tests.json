@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://phptravels.net",
+    "test": "Log in as a customer and verify the dashboard is shown",
+    "credentials": {
+      "email": "user@travellermail.com",
+      "password": "demouser"
+    }
+  },
+  {
+    "url": "https://phptravels.net",
+    "test": "Search for hotels in Dubai and verify results appear",
+    "credentials": {}
+  },
+  {
+    "url": "https://phptravels.net",
+    "test": "Navigate to the homepage and verify the site title contains travel",
+    "credentials": {}
+  }
+]
